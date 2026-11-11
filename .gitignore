@@ -1,0 +1,7 @@
+*.hex
+*.elf
+*.o
+*.map
+Debug/
+Release/
+.ipynb_checkpoints/
